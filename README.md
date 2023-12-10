@@ -1,14 +1,14 @@
-# Shihao Wang, Ph.D. in Robotics and Mechanical Engineering
+# 🤖 Shihao Wang, Ph.D. in Robotics and Mechanical Engineering
 
 Welcome to my GitHub portfolio. I'm Shihao Wang, a dedicated professional in robotics and mechanical engineering, currently excelling as a Senior Software Engineer at Cruise. My expertise lies in advanced motion planning and controls for autonomous vehicles and humanoid robots.
 
 
-## Education
+## 📚 Education
 - **Ph.D., Mechanical Engineering (Robotics)**, Duke University
 - **M.S., Mechanical Engineering**, Cornell University
 - **B.S., Mechanical Engineering**, Beihang University
 
-## Professional Highlights
+## 💼 Professional Highlights
 - **Senior Software Engineer, Motion Planning & Controls @ [Cruise](https://getcruise.com/)** (Aug 2023 - Present)
   - Advanced the field of autonomous driving through key developments in motion planning algorithms, including emergent braking and adaptive controls.
 - **Senior Software Engineer, Motion Planning & Controls @ [Applied Intuition](https://www.appliedintuition.com/)** (Feb 2022 - Aug 2023)
@@ -17,7 +17,7 @@ Welcome to my GitHub portfolio. I'm Shihao Wang, a dedicated professional in rob
   - Focused on enhancing autonomous driving capabilities, including vehicle following and obstacle avoidance.
 - **Software Engineer Intern, Autonomous Vehicle Control, @ [DeepRoute.ai](https://www.deeproute.ai/en/index)** (May 2020 - August 2020): Incorporated longitudinal and lateral dynamical models into vehicle simulation, improving control accuracy.
 
-## Skills
+## 🛠 Skills
 
 **Programming and Software Development:**
 - Proficient in C++, Python, and familiar with Linux and Windows operating systems.
@@ -36,7 +36,7 @@ Welcome to my GitHub portfolio. I'm Shihao Wang, a dedicated professional in rob
 - Familiar with methods like Direct Shooting Method, Direct Collocation Method, Classical Mechanics, Optimal Control, and Model Predictive Control.
 
 
-## Publications and Patents
+## 📜 Publications
 
 - Wang, S., Deng, C., & Qi, Q. (October 2022). "[Efficient online calibration for autonomous vehicle’s longitudinal dynamical system: A Gaussian model approach.](https://ieeexplore.ieee.org/document/9560912/)" In IEEE International Conference on Robotics and Automation (ICRA), Xi’an, China.
 - Wang, S., & Hauser, K. (December 2018). "[Unified Multi-Contact Fall Mitigation Planning for Humanoids via Contact Transition Tree Optimization.](https://ieeexplore.ieee.org/document/8625018)" Best presentation award, Best paper finalist. In IEEE-RAS International Conference on Humanoid Robots, Beijing, China.
@@ -45,9 +45,9 @@ Welcome to my GitHub portfolio. I'm Shihao Wang, a dedicated professional in rob
 - Sharma, A., Wang, S., Zhou, Y. M., & Ruina, A. (September 2016). "[Towards a maximally-robust self-balancing bicycle without reaction-moment gyroscopes or reaction wheels.](https://www.researchgate.net/publication/309419288_Towards_a_maximally-robust_self-balancing_bicycle_without_reaction-moment_gyroscopes_or_reaction_wheels)" In Proceedings of the 2016 Bicycle and Motorcycle Dynamics Conference, Milwaukee, US.
 
 
-## 📬 Contact
-- **Email**: [shihaowang369@gmail.com](mailto:shihaowang369@gmail.com)
-- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/shihao-wang-robotics/)
+## 📬 Contact Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shihao_Wang-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shihao-wang-robotics/)
+[![Email](https://img.shields.io/badge/Email-shihaowang369%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shihaowang369@gmail.com)
 
 Feel free to explore my projects and connect with me for collaboration or opportunities.
 
