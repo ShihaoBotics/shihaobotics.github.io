@@ -18,7 +18,13 @@ Welcome to my GitHub portfolio. I'm Shihao Wang, a dedicated professional in rob
 - Patent filed for an **adaptive jerk parameter algorithm**
 
 ## Publications and Patents
-- [List your notable publications and patents, if any]
+
+- Wang, S., Deng, C., & Qi, Q. (October 2022). "Efficient online calibration for autonomous vehicle’s longitudinal dynamical system: A Gaussian model approach." In IEEE International Conference on Robotics and Automation (ICRA), Xi’an, China.
+- Wang, S., & Hauser, K. (December 2018). "Unified Multi-Contact Fall Mitigation Planning for Humanoids via Contact Transition Tree Optimization." Best presentation award, Best paper finalist. In IEEE-RAS International Conference on Humanoid Robots, Beijing, China.
+- Wang, S., & Hauser, K. (May 2018). "Realization of a Real-Time Optimal Control Strategy to Stabilize a Falling Humanoid Robot with Hand Contact." In IEEE International Conference on Robotics and Automation, Brisbane, Australia.
+- Wang, S., & Hauser, K. (December 2017). "Real-time stabilization of a falling humanoid robot using hand contact: An optimal control approach." In IEEE-RAS International Conference on Humanoid Robots, Birmingham, UK.
+- Sharma, A., Wang, S., Zhou, Y. M., & Ruina, A. (September 2016). "Towards a maximally-robust self-balancing bicycle without reaction-moment gyroscopes or reaction wheels." In Proceedings of the 2016 Bicycle and Motorcycle Dynamics Conference, Milwaukee, US.
+
 
 ## Contact
 - **Email**: shihaowang369@gmail.com
