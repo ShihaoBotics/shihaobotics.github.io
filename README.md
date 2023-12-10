@@ -1,4 +1,5 @@
-# 🤖 Shihao Wang, Ph.D. in Robotics and Mechanical Engineering
+# Shihao Wang, Ph.D.
+![Background Image](./assets/img/Soothing-nature-backgrounds-2.jpg.webp)
 
 Welcome to my GitHub portfolio. I'm Shihao Wang, a dedicated professional in robotics and mechanical engineering, currently excelling as a Senior Software Engineer at Cruise. My expertise lies in advanced motion planning and controls for autonomous vehicles and humanoid robots.
 
