@@ -4,9 +4,12 @@ Welcome to my GitHub portfolio. I'm Shihao Wang, a dedicated professional in rob
 
 
 ## 📚 Education
-- **Ph.D., Mechanical Engineering (Robotics)**, Duke University
-- **M.S., Mechanical Engineering**, Cornell University
-- **B.S., Mechanical Engineering**, Beihang University
+- **Ph.D. in Mechanical Engineering (Robotics)**, Duke University, Durham, NC
+  - September 2016 - December 2020
+- **Master's in Mechanical Engineering**, Cornell University, Ithaca, NY
+  - September 2014 - June 2015
+- **Bachelor's in Mechanical Engineering**, Beihang University, Beijing, China
+  - September 2010 - June 2014
 
 ## 💼 Professional Highlights
 - **Senior Software Engineer, Motion Planning & Controls @ [Cruise](https://getcruise.com/)** (Aug 2023 - Present)
