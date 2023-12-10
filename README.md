@@ -2,6 +2,7 @@
 
 Welcome to my GitHub portfolio. I'm Shihao Wang, a dedicated professional in robotics and mechanical engineering, currently excelling as a Senior Software Engineer at Cruise. My expertise lies in advanced motion planning and controls for autonomous vehicles and humanoid robots.
 
+
 ## Education
 - **Ph.D., Mechanical Engineering (Robotics)**, Duke University
 - **M.S., Mechanical Engineering**, Cornell University
@@ -33,16 +34,16 @@ Welcome to my GitHub portfolio. I'm Shihao Wang, a dedicated professional in rob
 
 ## Publications and Patents
 
-- Wang, S., Deng, C., & Qi, Q. (October 2022). "Efficient online calibration for autonomous vehicle’s longitudinal dynamical system: A Gaussian model approach." In IEEE International Conference on Robotics and Automation (ICRA), Xi’an, China.
-- Wang, S., & Hauser, K. (December 2018). "Unified Multi-Contact Fall Mitigation Planning for Humanoids via Contact Transition Tree Optimization." Best presentation award, Best paper finalist. In IEEE-RAS International Conference on Humanoid Robots, Beijing, China.
-- Wang, S., & Hauser, K. (May 2018). "Realization of a Real-Time Optimal Control Strategy to Stabilize a Falling Humanoid Robot with Hand Contact." In IEEE International Conference on Robotics and Automation, Brisbane, Australia.
-- Wang, S., & Hauser, K. (December 2017). "Real-time stabilization of a falling humanoid robot using hand contact: An optimal control approach." In IEEE-RAS International Conference on Humanoid Robots, Birmingham, UK.
-- Sharma, A., Wang, S., Zhou, Y. M., & Ruina, A. (September 2016). "Towards a maximally-robust self-balancing bicycle without reaction-moment gyroscopes or reaction wheels." In Proceedings of the 2016 Bicycle and Motorcycle Dynamics Conference, Milwaukee, US.
+- Wang, S., Deng, C., & Qi, Q. (October 2022). "[Efficient online calibration for autonomous vehicle’s longitudinal dynamical system: A Gaussian model approach.](https://ieeexplore.ieee.org/document/9560912/)" In IEEE International Conference on Robotics and Automation (ICRA), Xi’an, China.
+- Wang, S., & Hauser, K. (December 2018). "[Unified Multi-Contact Fall Mitigation Planning for Humanoids via Contact Transition Tree Optimization.](https://ieeexplore.ieee.org/document/8625018)" Best presentation award, Best paper finalist. In IEEE-RAS International Conference on Humanoid Robots, Beijing, China.
+- Wang, S., & Hauser, K. (May 2018). "[Realization of a Real-Time Optimal Control Strategy to Stabilize a Falling Humanoid Robot with Hand Contact.](https://ieeexplore.ieee.org/document/8460500)" In IEEE International Conference on Robotics and Automation, Brisbane, Australia.
+- Wang, S., & Hauser, K. (December 2017). "[Real-time stabilization of a falling humanoid robot using hand contact: An optimal control approach.](https://ieeexplore.ieee.org/document/8246912)" In IEEE-RAS International Conference on Humanoid Robots, Birmingham, UK.
+- Sharma, A., Wang, S., Zhou, Y. M., & Ruina, A. (September 2016). "[Towards a maximally-robust self-balancing bicycle without reaction-moment gyroscopes or reaction wheels.](https://www.researchgate.net/publication/309419288_Towards_a_maximally-robust_self-balancing_bicycle_without_reaction-moment_gyroscopes_or_reaction_wheels)" In Proceedings of the 2016 Bicycle and Motorcycle Dynamics Conference, Milwaukee, US.
 
 
-## Contact
-- **Email**: shihaowang369@gmail.com
-- **LinkedIn**: [Your LinkedIn Profile]
-- **Location**: Milpitas, CA
+## 📬 Contact
+- **Email**: [shihaowang369@gmail.com](mailto:shihaowang369@gmail.com)
+- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/shihao-wang-robotics/)
 
 Feel free to explore my projects and connect with me for collaboration or opportunities.
+
