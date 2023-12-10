@@ -9,9 +9,13 @@ Welcome to my GitHub portfolio. I'm Shihao Wang, a dedicated professional in rob
 - **B.S., Mechanical Engineering**, Beihang University
 
 ## Professional Highlights
-- **Cruise**: Advanced the field of autonomous driving through key developments in motion planning algorithms, including emergent braking and adaptive controls.
-- **Applied Intuition**: Contributed to software development, emphasizing on simulation tools for autonomous vehicles.
-- **WeRide.ai**: Focused on enhancing autonomous driving capabilities, including vehicle following and obstacle avoidance.
+- **Senior Software Engineer, Motion Planning & Controls @ [Cruise](https://getcruise.com/)** (Aug 2023 - Present)
+  - Advanced the field of autonomous driving through key developments in motion planning algorithms, including emergent braking and adaptive controls.
+- **Senior Software Engineer, Motion Planning & Controls @ [Applied Intuition](https://www.appliedintuition.com/)** (Feb 2022 - Aug 2023)
+  - Contributed to software development, emphasizing on simulation tools for autonomous vehicles.
+- **Software Development Engineer, Motion Planning and Controls @ [WeRide.ai](https://www.weride.ai/)** (Jan 2021 - Feb 2022)
+  - Focused on enhancing autonomous driving capabilities, including vehicle following and obstacle avoidance.
+- **Software Engineer Intern, Autonomous Vehicle Control, @ [DeepRoute.ai](https://www.deeproute.ai/en/index)** (May 2020 - August 2020): Incorporated longitudinal and lateral dynamical models into vehicle simulation, improving control accuracy.
 
 ## Skills
 
