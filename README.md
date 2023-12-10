@@ -18,7 +18,8 @@ Welcome to my GitHub portfolio. I'm Shihao Wang, a dedicated professional in rob
   - Contributed to software development, emphasizing on simulation tools for autonomous vehicles.
 - **Software Development Engineer, Motion Planning and Controls @ [WeRide.ai](https://www.weride.ai/)** (Jan 2021 - Feb 2022)
   - Focused on enhancing autonomous driving capabilities, including vehicle following and obstacle avoidance.
-- **Software Engineer Intern, Autonomous Vehicle Control, @ [DeepRoute.ai](https://www.deeproute.ai/en/index)** (May 2020 - August 2020): Incorporated longitudinal and lateral dynamical models into vehicle simulation, improving control accuracy.
+- **Software Engineer Intern, Autonomous Vehicle Control, @ [DeepRoute.ai](https://www.deeproute.ai/en/index)** (May 2020 - August 2020)
+  - Incorporated longitudinal and lateral dynamical models into vehicle simulation, improving control accuracy.
 
 ## 🛠 Skills
 
