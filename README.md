@@ -13,9 +13,23 @@ Welcome to my GitHub portfolio. I'm Shihao Wang, a dedicated professional in rob
 - **WeRide.ai**: Focused on enhancing autonomous driving capabilities, including vehicle following and obstacle avoidance.
 
 ## Skills
-- Proficient in **C++ and Python**
-- Specialized in **Motion Planning**, **Numerical Optimization**, and **Machine Learning**
-- Patent filed for an **adaptive jerk parameter algorithm**
+
+**Programming and Software Development:**
+- Proficient in C++, Python, and familiar with Linux and Windows operating systems.
+- Extensive experience with numerical optimization and motion planning algorithms.
+
+**Technical Tools and Libraries:**
+- Proficient in using optimization tools like SNOPT, IPOPT, and GUROBI.
+- Experienced in MATLAB for simulation and algorithm development.
+
+**Algorithm Design and Machine Learning:**
+- Knowledgeable in various algorithms including Potential function, Navigation function, PRM, RRT, and A*.
+- Experience with machine learning techniques such as Perceptron, Decision Trees, SVM, K-means, and KNN.
+
+**Control Systems and Optimization Techniques:**
+- Skilled in trajectory optimization, dynamics, and control systems.
+- Familiar with methods like Direct Shooting Method, Direct Collocation Method, Classical Mechanics, Optimal Control, and Model Predictive Control.
+
 
 ## Publications and Patents
 
